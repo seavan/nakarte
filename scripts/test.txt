@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Результаты поиска - www.nash-gorod.kz</title>
+<meta name="description" content="Результаты поиска - www.nash-gorod.kz" />
+<meta name="keywords" content="Результаты поиска - www.nash-gorod.kz" />
+<link href="/apple/template/new/style_ru.css" rel="stylesheet" type="text/css" />
+<script src="/Scripts/SpryTabbedPanel/SpryTabbedPanels.js" type="text/javascript"></script>
+<link href="/Scripts/SpryTabbedPanel/SpryTabbedPanels.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10855233-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type="text/javascript">
+function SectionClick(id)
+{	
+	var div = document.getElementById(id);
+	if(div.style.display=='none')
+	{
+	div.style.display='block';
+	}else
+	{
+	div.style.display='none';
+	}
+	
+}
+</script>
+</head>
+
+<body>
+<table width="96%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+    <td width="195" height="35" align="center"><a href="mailto:info@nashgorod.kz"><img src="/apple/template/new/images/gorod_03.jpg" alt="написать нам" width="15" height="12" hspace="7" border="0" align="middle" /></a><a href="/index.php">Вернуться на главную</a> </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <tr>
+        <td width="205" valign="top"><a href="/index.php"><img src="/apple/template/new/images/gorod_18.jpg" alt="на главную" width="193" height="72" border="0" /></a></td>
+        <td  valign="top" width="70%"><form action="/almaty/goods.php" method="post" name="search_form" id="search_form">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="18" class="search_left_top">&nbsp;</td>
+                  <td class="search_center_top">&nbsp;</td>
+                  <td width="14" height="28" align="right" class="search_right_top">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td class="search_left_center">&nbsp;</td>
+                  <td align="right" bgcolor="#f5df4f"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td align="right"><span style="padding-bottom:20px;">
+                          <input name="search" type="text" class="input_field" id="search" onfocus="if (value == 'введите слово для поиска') {value =''}" onblur="if (value == '') {value='введите слово для поиска'}" value="введите слово для поиска" style="width:100%" />
+                          <a href="#" class="link" onclick="SectionClick('id1')">расширенный поиск </a></span><br />
+                          <div style="display:none" id="id1">
+                            <div align="left" class="hidden_text_search">
+                              <input name="field" type="radio" id="radio3" value="name"  />
+                              По названию фирмы<span class="select_search_text">
+                                <input type="radio" name="field" id="radio4" value="phone" />
+                                </span>По телефону<span class="select_search_text">
+                                  <input type="radio" name="field" id="radio5" value="address_street" />
+                                  </span>По адресу<span class="select_search_text">
+                                    <input type="radio" name="field" id="radio2" value="goods" onchange="form_go('/almaty/goods_services.php')" />
+                                    </span>По товару/услуге<br />
+                              <span class="small_text">&nbsp;Искать в рубрике:</span>
+                              <select name="rub" id="select"  style="width:300px;">
+                                <option value="0">все рубрики</option>
+                                <option value="1530"> Administrations, inspections</option><option value="1526"> Agencies</option><option value="1851"> Akim administration (Mayor administration)</option><option value="2057"> Auto-refueling stations</option><option value="1501"> Cars by order</option><option value="630"> Cars: for rent</option><option value="1527"> Committees</option><option value="158"> Higher education</option><option value="346"> Interior design</option><option value="186"> Kindergartens, day-nurseries</option><option value="1537"> Law-enforcement bodies</option><option value="1671"> Lawyers’ services</option><option value="198"> Libraries</option><option value="1852"> Maslikhat</option><option value="484"> Oil, gas, coal: development, extraction, processing</option><option value="488"> Oil, gas, coal: sale</option><option value="1593"> Pizzerias</option><option value="1701"> Stomatology</option><option value="549">Acquaintance services, marriage agencies</option><option value="1528">Administrations, departments</option><option value="1664">Advertisement: industry and placement</option><option value="478">Agricultural equipment</option><option value="2076">Agro-chemistry: goods and services</option><option value="1678">Air companies</option><option value="1679">Air tickets: booking and sale</option><option value="1850">Akim of Almaty (The head of Almaty city administration, Mayor)</option><option value="1853">Akims of Almaty districts (Mayors of Almaty city)</option><option value="292">Animals and birds: amateur clubs</option><option value="1656">Antiques, pictures</option><option value="611">Archives, archive services</option><option value="1659">Art goods</option><option value="559">Atelier and fashion salons</option><option value="1624">Audio-,video products, video-hire</option><option value="530">Audit services</option><option value="279">Auto parts</option><option value="282">Auto-accessories, glasses, mirrors</option><option value="274">Auto-chemistry and cosmetics</option><option value="502">Auto-schools, driving courses</option><option value="2063">Auto-transportation services: cargoes</option><option value="526">banks</option><option value="455">Banks and payment equipment</option><option value="2067">Bath-houses, saunas</option><option value="277">Bearings</option><option value="1586">Beauty salons</option><option value="1633">Bedclothes, textile</option><option value="1628">Books, postcards, printing editions</option><option value="1462">Bowling</option><option value="1687">Bus stations: passenger transport</option><option value="218">Canteens, snack bars</option><option value="276">Car alarms, audio, video systems for cars</option><option value="267">Car parks, garages</option><option value="261">Car services, Stations of Technical Services</option><option value="263">Car washes</option><option value="1634">Carpets</option><option value="269">Cars, motor-techniques: manufacture, sale</option><option value="262">Cars: re-equipment, design and interior renovation</option><option value="450">Cash, weight equipment</option><option value="1660">Catalogues trade</option><option value="2074">Cattle-breeding</option><option value="1625">Cellular phones</option><option value="1541">Centers</option><option value="2089">Centers for population services</option><option value="135">Chemists’</option><option value="1638">Children goods, maternity clothes</option><option value="1881">Children’s homes, boarding-schools</option><option value="226">Cinemas</option><option value="1529">City authorities</option><option value="1551">Civilian registry offices</option><option value="565">Cleaning of territories, premises</option><option value="1637">Clothes, footwear, haberdashery</option><option value="2104">Commercial representations</option><option value="1484">Communal services</option><option value="1888">Compressor equipment</option><option value="1667">Computers and accessories</option><option value="2069">Concert halls</option><option value="551">Concerts, festivals: organization, carrying out</option><option value="466">Conditioning and ventilation</option><option value="1719">Construction finigshing materials, floor coatings</option><option value="1711">Construction materials: metal-roll, pipes</option><option value="368">Construction materials: natural</option><option value="1710">Construction materials: reinforced-concrete</option><option value="1712">Construction materials: roofing</option><option value="1713">Construction materials: wooden, lumbers products</option><option value="1714">Construction steel-works, metal-works</option><option value="1722">Construction tools and devices</option><option value="339">Construction works: special</option><option value="336">Construction, designing</option><option value="340">Construction-mounting works</option><option value="2088">Consulting services</option><option value="334">Container and packing: equipment for industry</option><option value="284">Container and packing: industry, sale</option><option value="591">Container and packing: raw materials, secondary raw-materials</option><option value="2086">Cookeries</option><option value="1485">Cooperatives of Flats Proprietors</option><option value="1668">Copy-multiplying technique, office equipment</option><option value="1639">Cosmetics, perfumery</option><option value="1535">Courts, prosecutor offices, collegiums, commissions</option><option value="610">Creativity studios</option><option value="1636">Crockery: kitchen inventory</option><option value="665">Culture centers</option><option value="535">Currency exchange</option><option value="1631">Curtains, portieres</option><option value="2061">Customs-broker services, inspection</option><option value="1532">Departments</option><option value="318">Directories, catalogues</option><option value="286">Disposable utensils: industry, sale</option><option value="624">District employment services</option><option value="1886">Documenting and population registration departments of district justice administration of Almaty</option><option value="562">Dry cleaners and laundries</option><option value="2102">Ecology and environment protection</option><option value="599">Education abroad, International educational centers</option><option value="493">Education: educational centers, courses</option><option value="600">Educational centers, rising the level of skills, refreshing courses</option><option value="1856">Election commission</option><option value="467">Electric tools, electro-technical equipment</option><option value="1274">Embassies, consulates and representations of other countries in the Republic of Kazakhstan</option><option value="1807">Embassies, consulates and representations of the Republic of Kazakhstan abroad</option><option value="2100">Energy and energy supply</option><option value="1457">Entertainment centers</option><option value="154">Equipment and devices for beauty salons</option><option value="481">Equipment and devices: for laboratories</option><option value="1496">Equipment for Auto Refueling Stations and Gas-Felling Stations</option><option value="2085">Equipment for cable and satellite TV</option><option value="459">Equipment for casinos, game centers, bowlings, attractions</option><option value="476">Equipment for chemical industry</option><option value="458">Equipment for clubs, concert halls, cinemas, discos</option><option value="461">Equipment for dry-cleaner’s, laundries, cleaning equipment</option><option value="470">Equipment for food industry</option><option value="477">Equipment for light industry branches</option><option value="2083">Equipment for radio connection</option><option value="457">Equipment for restaurants, cafes, bars, kitchens</option><option value="2084">Equipment for satellite connection</option><option value="462">Equipment for Stations of Technical Services and carwashes</option><option value="480">Equipment for TV stations, radio stations</option><option value="463">Equipment: construction, industrial</option><option value="1882">Equipment: swimming-pools, bath-houses, saunas</option><option value="2101">Examination and certification</option><option value="1665">Exhibition activity</option><option value="1830">Express-mail, courier services</option><option value="1632">Fabrics, accessories, sewing equipment</option><option value="552">Festivals: organization, carrying out, goods</option><option value="347">Finishing works: outside</option><option value="2081">Fire-fighting facilities</option><option value="2078">Flowers, decorative plants</option><option value="1604">Foodstuff: alcoholic beverages</option><option value="1611">Foodstuff: bakery products</option><option value="1618">Foodstuff: caned products</option><option value="1621">Foodstuff: children and diet products</option><option value="1612">Foodstuff: confectionary products</option><option value="1608">Foodstuff: fish, sea-food</option><option value="1617">Foodstuff: macaroni products, soy and bean products, flour, sugar</option><option value="1607">Foodstuff: meat and sausages</option><option value="1606">Foodstuff: milk, milk products</option><option value="1613">Foodstuff: oil, fats</option><option value="1610">Foodstuff: poultry, eggs</option><option value="1619">Foodstuff: relishes, sauces</option><option value="1616">Foodstuff: semi-finished products</option><option value="1605">Foodstuff: soft drinks, juices</option><option value="1614">Foodstuff: tea, coffee, cocoa</option><option value="1609">Foodstuff: vegetables, fruit</option><option value="2077">Forest and park economies</option><option value="519">Funeral services and ritual accessories</option><option value="1629">Furniture</option><option value="2186">Furniture accessories</option><option value="568">Gas delivery services</option><option value="497">General education schools</option><option value="634">Geological prospecting, geodesy: equipment, services</option><option value="1657">Gifts, souvenirs</option><option value="1720">Glass, mirrors</option><option value="2073">Grain, mixed fodder</option><option value="522">Graveyards</option><option value="155">Hairdressers’</option><option value="465">Heating: equipment and devices</option><option value="1653">Home appliances, electro-devices</option><option value="1620">Honey, beekeeping products</option><option value="253">Hotels, hotel complexes</option><option value="1643">Household goods, household chemistry</option><option value="1658">Hunting and fishing accessories, weapons</option><option value="237">Hunting, fishing, organization, licensing</option><option value="595">Industrial chemistry: industry, sale</option><option value="619">Industry automation</option><option value="2058">Informational-research services</option><option value="2059">Inquiry-information services</option><option value="1716">Insulation construction materials, proofing compounds</option><option value="537">Insurance companies</option><option value="1273">International organizations.</option><option value="1464">Internet-cafes, computer clubs</option><option value="533">Investment activity</option><option value="1630">jalousie</option><option value="1640">Jewelries</option><option value="452">Labeling equipment</option><option value="342">Landscape design: accomplishment, planting of greenery</option><option value="628">Language translations</option><option value="534">Leasing, franchising</option><option value="1672">Legal services, registration and re-registration of enterprises</option><option value="1855">Licensing-sanctioning systems</option><option value="1635">Lighting devices: chandeliers, lamps, sconces</option><option value="1721">Locks, fixing items</option><option value="567">Locks: installation, emergency opening</option><option value="2071">Lottery, bookmakers bureaus</option><option value="2185">Lottery, bookmakers bureaus</option><option value="275">Lubricants, oils, freezing liquids</option><option value="317">Magazines</option><option value="1829">Mail, mail departments</option><option value="473">Mechanical engineering and instrument-making industry: technologies, equipment</option><option value="2191">Medical equipment, tools</option><option value="1702">Medical first aid</option><option value="147">Medical institutions: ambulance stations, laboratories</option><option value="1697">Medical institutions: antenatal clinics</option><option value="148">Medical institutions: dispensaries, rehabilitation centers, sanatoriums</option><option value="1505">Medical institutions: hospitals, scientific-research institutes</option><option value="144">Medical institutions: maternity hospitals</option><option value="1698">Medical institutions: polyclinics</option><option value="1700">Medical services of private doctors</option><option value="1699">Medical/diagnostic centers, clinics</option><option value="134">Medicines, medical goods: wholesale and retail sale</option><option value="594">Metal: recycling</option><option value="479">Metallurgical equipment</option><option value="590">Meters, meter devices: sale, installation, services</option><option value="1854">Migration police</option><option value="1589">Military education</option><option value="593">Mining companies: extraction, processing</option><option value="475">Mining equipment</option><option value="1525">Ministries</option><option value="586">Mobile communications</option><option value="503">Models school</option><option value="517">Morgues, pathology-anatomy bureau</option><option value="1883">Motor-vehicle pools: passenger transport</option><option value="202">Museums, exhibition halls, galleries</option><option value="1641">Musical instruments and equipment</option><option value="1587">Nails salons, tattoo-salons</option><option value="2087">Nannies, housemaids, nurses, cooks: services</option><option value="576">Network solutions and data transformation services</option><option value="189">Neutraceuticals</option><option value="316">Newspapers</option><option value="1458">Night clubs, discos</option><option value="1670">Notary’s offices</option><option value="1810">Office partitions</option><option value="472">Oil and Gas equipment</option><option value="490">Oil and gas industry: services</option><option value="489">Oil products: companies</option><option value="137">Optics</option><option value="1717">Paint and varnish construction materials, dry mixtures</option><option value="1524">Parliament mazhilis of RK</option><option value="1523">Parliament senate of RK</option><option value="1673">Patent-legal companies</option><option value="536">Pawnshops and crediting organizations</option><option value="528">Pension collecting funds</option><option value="2070">Philharmonic societies, orchestras</option><option value="1642">Photo-goods</option><option value="554">Photo-services</option><option value="505">Pizza, hot dishes delivery services</option><option value="2072">Plant cultivation, vegetable-growing economies</option><option value="2080">Plastic and aesthetic surgery</option><option value="1761">Plastic cards: industry</option><option value="2103">Political parties</option><option value="222">Polygraphic equipment, materials</option><option value="224">Polygraphy services</option><option value="187">Preschool education</option><option value="1518">President of RK</option><option value="1522">Prime-minister of RK</option><option value="223">Printing-houses</option><option value="574">Provider companies, web-design</option><option value="2187">Psychological Centers, services of a psychologist. Trainings</option><option value="1847">Public education departments</option><option value="511">Public organizations</option><option value="221">Publishing houses, publishers</option><option value="310">Radio companies</option><option value="314">Radio stations</option><option value="1684">Railway ticket offices</option><option value="1683">Railways stations</option><option value="2065">Railways transportation services</option><option value="2018">Real-estate: business-centers, conference-halls</option><option value="1676">Real-estate: mortgage crediting</option><option value="1675">Real-estate: purchase sale, rent</option><option value="456">Refrigerating equipment</option><option value="613">Religious Christian organizations, churches</option><option value="180">Religious education</option><option value="614">Religious Muslim organizations, mosques</option><option value="615">Religious organizations: representations of various confessions</option><option value="633">Repair of jewelries, watches and umbrellas</option><option value="632">Repair TV-,video, audio technique and home appliances</option><option value="348">Repair, re-planning: external, finishing works</option><option value="227">Rest parks, zoo-park</option><option value="217">Restaurants, cafes, bars</option><option value="1760">Rubber-technical industrial products</option><option value="214">Sanatoriums, rest homes, tourist centers</option><option value="1718">Sanitary engineering, ceramic tile</option><option value="1271">Sanitary-epidemiological control, disinfection</option><option value="499">Schoolboys’ palaces, creativity centers for children and youth</option><option value="178">Schools with subjects’ profound study, gymnasiums, lyceums</option><option value="618">Scientific-research institutes, organizations</option><option value="2066">Sea transportation services</option><option value="1540">Sealing facilities and materials</option><option value="1646">Second-hand, commission shops</option><option value="169">Secondary special education</option><option value="531">Securities market</option><option value="245">Security systems: sale, installation</option><option value="239">Security, detective services</option><option value="2075">Selection, seed-farming stations</option><option value="560">Shoes workshops</option><option value="1599">Shops</option><option value="509">Social, charity institutions</option><option value="596">Software: development, sale</option><option value="278">Special technique: parts</option><option value="271">Special techniques: sale, repair, rent</option><option value="1588">Sport, gyms, fitness-clubs</option><option value="1645">Sports technique, goods</option><option value="496">Sports, art, music schools</option><option value="213">Sports, tourist clubs, organizations</option><option value="507">Staff and recruiting agencies</option><option value="1520">State bodies of RK President</option><option value="532">Stock-exchanges</option><option value="315">Studios</option><option value="1794">Supermarket delivery services</option><option value="1598">Supermarkets, hypermarkets, trade-entertainment centers</option><option value="1531">Tax authorities of Almaty</option><option value="1688">Taxi</option><option value="2082">Telecommunication equipment</option><option value="585">Telephone communications, city, intercity, international</option><option value="1887">Tents and marquees</option><option value="2068">Theatres, circus</option><option value="273">Tires, discs</option><option value="1879">Tobacco products</option><option value="212">Tourism, migration</option><option value="1601">Trade companies, warehouses</option><option value="454">Trade equipment</option><option value="1689">Tram, trolleybus depots</option><option value="266">Transport evacuation services</option><option value="2098">Transport-expedition companies</option><option value="1801">TV-, Internet shops</option><option value="291">Veterinarian medications: wholesales and retail sales</option><option value="296">Veterinarian services</option><option value="170">Vocational education: vocational schools, lyceums</option><option value="2062">Warehouses, dead-end sidings: rent</option><option value="1655">watches</option><option value="635">Water purifying equipment</option><option value="1651">Wedding salons</option><option value="1600">Wholesale and retail markets</option><option value="1715">Windows, doors</option><option value="474">Woodworking and forest harvesting equipment</option><option value="1654">Working clothes, shoes</option><option value="1627">Writing materials</option><option value="289">Zoo-shops, goods for animals</option><option value="1679">Авиабилеты: бронирование и покупка</option><option value="1678">Авиакомпании</option><option value="282">Автоаксессуары, стекла, зеркала</option><option value="1687">Автовокзалы: пассажирский транспорт</option><option value="279">Автозапчасти</option><option value="619">Автоматизация производства</option><option value="1501">Автомобили на заказ</option><option value="269">Автомобили, мототехника: производство, продажа</option><option value="262">Автомобили: переоборудование, дизайн и обновление салона</option><option value="630">Автомобили: прокат</option><option value="263">Автомойки</option><option value="1883">Автопарки: пассажирский транспорт</option><option value="2063">Автоперевозки: грузовые</option><option value="261">Автосервис, СТО</option><option value="276">Автосигнализация, автомобильные аудио-, видеосистемы</option><option value="275">Автосмазки, масла, охлаждающие жидкости</option><option value="267">Автостоянки, гаражи</option><option value="274">Автохимия и автокосметика</option><option value="273">Автошины, диски</option><option value="502">Автошколы, курсы вождения</option><option value="1526">Агентства</option><option value="2076">Агрохимия: товары и услуги</option><option value="1671">Адвокатские услуги</option><option value="2057">АЗС</option><option value="1850">Аким  г. Алматы</option><option value="1853">Акиматы районов  г.  Алматы</option><option value="1656">Антиквариат, картины</option><option value="1851">Аппарат акима  г. Алматы</option><option value="135">Аптеки</option><option value="611">Архивы, архивные услуги</option><option value="559">Ателье и салоны моды</option><option value="1624">Аудио-, видеопродукция, видеопрокат</option><option value="530">Аудиторские услуги</option><option value="2067">Бани, сауны</option><option value="526">Банки</option><option value="198">Библиотеки</option><option value="189">Биологически активные добавки</option><option value="532">Биржи</option><option value="1462">Боулинг и бильярд</option><option value="1653">Бытовая техника, электроприборы</option><option value="296">Ветеринарные услуги</option><option value="291">Ветпрепараты: продажа</option><option value="2188">Военкоматы</option><option value="2188">Военкоматы</option><option value="1665">Выставочная деятельность</option><option value="568">Газ на дом</option><option value="316">Газеты</option><option value="634">Геологоразведка, геодезия: оборудование, услуги</option><option value="593">Горно-рудные компании: добыча, переработка</option><option value="1529">Городские власти</option><option value="253">Гостиницы, отели, гостиничные комплексы</option><option value="1520">Государственные органы при Президенте РК</option><option value="499">Дворцы школьников, центры творчества детей и молодежи</option><option value="1532">Департаменты</option><option value="1881">Детские дома, интернаты</option><option value="186">Детские сады, ясли</option><option value="1638">Детские товары, одежда для будущих мам</option><option value="346">Дизайн интерьера</option><option value="1794">Доставка из супермаркетов</option><option value="505">Доставка пиццы, горячих обедов</option><option value="187">Дошкольная подготовка</option><option value="1630">Жалюзи</option><option value="1683">Железнодорожные вокзалы</option><option value="1684">Железнодорожные кассы</option><option value="2065">Железнодорожные перевозки</option><option value="2074">Животноводство</option><option value="292">Животные и птицы: клубы любителей</option><option value="317">Журналы</option><option value="1551">Загсы</option><option value="1721">Замки, крепежные изделия</option><option value="567">Замки: установка, аварийное вскрытие</option><option value="2073">Зерно, комбикорм</option><option value="289">Зоомагазины, товары для животных</option><option value="1856">Избирательная комиссия  г. Алматы</option><option value="221">Издательские дома, издательства</option><option value="533">Инвестиционная деятельность</option><option value="1464">Интернет-кафе, компьютерные клубы</option><option value="2058">Информационно-исследовательские услуги</option><option value="507">Кадровые и рекрутинговые агентства</option><option value="1627">Канцелярские товары</option><option value="226">Кинотеатры</option><option value="522">Кладбища</option><option value="1628">Книги, открытки, печатные издания</option><option value="1634">Ковры</option><option value="1527">Комитеты</option><option value="2104">Коммерческие представительства</option><option value="1484">Коммунальные службы</option><option value="1667">Компьютеры и комплектующие</option><option value="466">Кондиционирование и вентиляция</option><option value="2088">Консалтинговые услуги</option><option value="2069">Концертные залы</option><option value="551">Концерты, фестивали: организация, проведение</option><option value="1668">Копировально-множительная техника, офисное оборудование</option><option value="1639">Косметика, парфюмерия</option><option value="1485">КСК</option><option value="2086">Кулинарии</option><option value="665">Культурные центры</option><option value="2185">Лагеря детские</option><option value="342">Ландшафтный дизайн: благоустройство, озеленение территорий</option><option value="2077">Лесопарковые хозяйства</option><option value="534">Лизинг, франчайзинг</option><option value="1855">Лицензионно-разрешительные службы</option><option value="536">Ломбарды и кредитные организации</option><option value="2071">Лотерея, букмекерские конторы</option><option value="1599">Магазины</option><option value="1524">Мажилис парламента РК</option><option value="1852">Маслихат  г. Алматы</option><option value="473">Машиностроение и приборостроение: технологии, оборудование</option><option value="1629">Мебель</option><option value="2186">Мебельная фурнитура</option><option value="1620">Мед, продукты пчеловодства</option><option value="134">Медикаменты, товары медицинского назначения: оптово-розничная продажа</option><option value="1702">Медицинская неотложная помощь</option><option value="1700">Медицинские услуги частнопрактикующих врачей</option><option value="147">Медицинские учреждения: амбулатории, лаборатории</option><option value="1505">Медицинские учреждения: больницы, НИИ, госпитали</option><option value="148">Медицинские учреждения: диспансеры, реабилитационные центры, санатории</option><option value="1697">Медицинские учреждения: женские консультации</option><option value="1698">Медицинские учреждения: поликлиники</option><option value="144">Медицинские учреждения: роддома</option><option value="1699">Медицинские/диагностические центры, клиники</option><option value="594">Металл: вторичная переработка</option><option value="1854">Миграционная полиция</option><option value="1525">Министерства</option><option value="517">Морги, патолого-анатомические бюро</option><option value="2066">Морские перевозки</option><option value="202">Музеи, выставочные залы, галереи</option><option value="1641">Музыкальные инструменты, аппаратура и принадлежности</option><option value="1531">Налоговые органы г. Алматы</option><option value="618">Научно-исследовательские институты, организации</option><option value="2018">Недвижимость: бизнес-центры, конференц-залы</option><option value="1676">Недвижимость: ипотечное кредитование</option><option value="1675">Недвижимость: оценка, покупка, продажа, аренда</option><option value="490">Нефтегазовая промышленность: услуги</option><option value="489">Нефтепродукты: компании</option><option value="488">Нефть, газ, уголь: продажа</option><option value="484">Нефть, газ, уголь: разработка, добыча, переработка</option><option value="1670">Нотариальные конторы</option><option value="1458">Ночные клубы, диско-бары</option><option value="2087">Няни, домработницы, сиделки, повара: услуги</option><option value="535">Обмен валюты</option><option value="455">Оборудование банковское и платежное</option><option value="635">Оборудование водоочистительное</option><option value="475">Оборудование горно-шахтное</option><option value="474">Оборудование деревообрабатывающее и лесозаготовительное</option><option value="1496">Оборудование для АЗС и ГНС</option><option value="2085">Оборудование для кабельного и спутникового телевидения</option><option value="459">Оборудование для казино, игровых центров, боулинга; аттракционы</option><option value="458">Оборудование для клубов, концертных залов, кинотеатров, дискотек</option><option value="477">Оборудование для отраслей легкой промышленности</option><option value="470">Оборудование для пищевой промышленности</option><option value="2083">Оборудование для радиосвязи</option><option value="457">Оборудование для ресторанов, кафе, баров, кухонь</option><option value="2084">Оборудование для спутниковой связи</option><option value="462">Оборудование для СТО и автомоек</option><option value="480">Оборудование для телестанций, радиостанций</option><option value="476">Оборудование для химической промышленности</option><option value="461">Оборудование для химчисток, прачечных, уборочное оборудование</option><option value="154">Оборудование и приборы  для салонов красоты</option><option value="481">Оборудование и приборы: лабораторные</option><option value="450">Оборудование кассовое, весовое</option><option value="1888">Оборудование компрессорное</option><option value="452">Оборудование маркировочное</option><option value="2191">Оборудование медицинское, инструмент</option><option value="479">Оборудование металлургическое</option><option value="472">Оборудование нефтегазовое</option><option value="222">Оборудование полиграфическое, материалы</option><option value="2081">Оборудование противопожарное и средства пожаротушения</option><option value="478">Оборудование сельскохозяйственное</option><option value="2082">Оборудование телекоммуникационное</option><option value="454">Оборудование торговое</option><option value="456">Оборудование холодильное</option><option value="1882">Оборудование: бассейны, бани, сауны</option><option value="463">Оборудование: строительное промышленное</option><option value="1589">Образование военное</option><option value="158">Образование высшее</option><option value="599">Образование за рубежом, международные центры образования</option><option value="170">Образование профессиональное: профшколы, профлицеи</option><option value="180">Образование религиозное</option><option value="169">Образование среднеe специальное: колледжи</option><option value="600">Образовательные центры, центры повышения квалификации</option><option value="560">Обувные мастерские</option><option value="493">Обучение: учебные центры, курсы</option><option value="511">Общественные организации</option><option value="1637">Одежда, обувь, галантерея</option><option value="1715">Окна, двери</option><option value="137">Оптика</option><option value="1537">Органы правопорядка</option><option value="1635">Осветительные приборы: люстры, светильники, бра</option><option value="347">Отделочные работы: наружные</option><option value="1886">Отделы документирования и регистрации населения районных управлений юстиции г. Алматы</option><option value="1847">Отделы народного образования</option><option value="465">Отопление: оборудование и приборы</option><option value="237">Охота, рыбалка: организация, проведение, лицензии</option><option value="1658">Охотничьи и рыболовные принадлежности, оружие</option><option value="245">Охранные системы: продажа, обслуживание</option><option value="239">Охранные, детективные службы</option><option value="155">Парикмахерские</option><option value="227">Парки отдыха, зоопарк</option><option value="1673">Патентно-правовые фирмы</option><option value="528">Пенсионные накопительные  фонды</option><option value="628">Переводы языковые</option><option value="1810">Перегородки офисные</option><option value="1593">Пиццерии</option><option value="1761">Пластиковые карточки: изготовление</option><option value="2080">Пластическая и эстетическая хирургия</option><option value="1540">Пломбировочные устройства и материалы</option><option value="1657">Подарки, сувениры</option><option value="277">Подшипники</option><option value="224">Полиграфические услуги</option><option value="2103">Политические партии</option><option value="1274">Посольства, консульства и представительства других стран в Республике Казахстан</option><option value="1807">Посольства, консульства и представительства Республики Казахстан за рубежом</option><option value="1633">Постельные принадлежности, текстиль</option><option value="286">Посуда одноразовая: производство, продажа</option><option value="1636">Посуда, кухонный инвентарь</option><option value="519">Похоронные службы и ритуальные принадлежности</option><option value="1829">Почта, почтовые отделения</option><option value="552">Праздники: организация, проведение, товары</option><option value="1273">Представительства международных организаций</option><option value="1518">Президент РК</option><option value="1522">Премьер-министр РК</option><option value="574">Провайдерские компании, web-дизайн</option><option value="596">Программное обеспечение: разработка, продажа</option><option value="1621">Продукты питания: детские и диетические продукты</option><option value="1612">Продукты питания: кондитерские изделия</option><option value="1618">Продукты питания: консервированные изделия</option><option value="1617">Продукты питания: макаронные изделия, крупы, соевая и бобовая продукция, мука, сахар</option><option value="1613">Продукты питания: масло, жиры</option><option value="1606">Продукты питания: молоко, молочные продукты</option><option value="1607">Продукты питания: мясные и колбасные изделия</option><option value="1605">Продукты питания: напитки прохладительные, соки</option><option value="1604">Продукты питания: напитки спиртные</option><option value="1609">Продукты питания: овощи, фрукты, орехи</option><option value="1616">Продукты питания: полуфабрикаты</option><option value="1619">Продукты питания: приправы, соусы, специи</option><option value="1610">Продукты питания: птица, яйцо</option><option value="1608">Продукты питания: рыба, морепродукты</option><option value="1611">Продукты питания: хлебобулочные изделия</option><option value="1614">Продукты питания: чай, кофе, какао</option><option value="2187">Психологические центры, услуги психолога. Тренинги</option><option value="314">Радиостанции</option><option value="1457">Развлекательные центры</option><option value="2072">Растениеводческие, овощеводческие хозяйства</option><option value="2189">Регистрация/перерегистрация транспортных средств</option><option value="2189">Регистрация/перерегистрация транспортных средств</option><option value="1760">Резинотехнические промышленные  изделия</option><option value="1664">Реклама: производство и размещение</option><option value="614">Религиозные мусульманские организации, мечети</option><option value="615">Религиозные организации: представительства различных конфессий</option><option value="613">Религиозные христианские организации, церкви</option><option value="632">Ремонт теле-, видео-, аудиоаппаратуры и бытовой техники</option><option value="633">Ремонт ювелирных изделий, часов, зонтов</option><option value="348">Ремонт, перепланировка: внутренние отделочные работы</option><option value="217">Рестораны, кафе, бары</option><option value="1600">Рынки оптово-розничные</option><option value="531">Рынок ценных бумаг</option><option value="1586">Салоны красоты</option><option value="1587">Салоны ногтей, тату-салоны</option><option value="214">Санатории, дома отдыха, туристические базы</option><option value="1271">Санитарно-эпидемиологический контроль, дезинфекция</option><option value="1718">Сантехника, керамическая плитка</option><option value="1651">Свадебные салоны</option><option value="586">Связь мобильная</option><option value="1646">Секонд-хенд, комиссионные магазины</option><option value="2075">Селекционные, семеноводческие станции</option><option value="1523">Сенат парламента РК</option><option value="576">Сетевые решения и услуги передачи данных</option><option value="2062">Склады, ж/д тупики: аренда</option><option value="624">Службы занятости районные</option><option value="549">Службы знакомств, брачные агентства</option><option value="1625">Сотовые телефоны</option><option value="509">Социальные, благотворительные  учреждения</option><option value="1654">Спецодежда, спецобувь</option><option value="278">Спецтехника: запчасти</option><option value="271">Спецтехника: продажа, ремонт, прокат</option><option value="1645">Спортивная техника, товары</option><option value="1588">Спортивные, тренажерные залы, фитнес-клубы</option><option value="213">Спортивные, туристичеcкие клубы, организации</option><option value="318">Справочники, каталоги</option><option value="2059">Справочные услуги</option><option value="1720">Стекло, зеркала</option><option value="218">Столовые, закусочные</option><option value="1701">Стоматология</option><option value="537">Страховые компании</option><option value="340">Строительно-монтажные работы</option><option value="1716">Строительные материалы изоляционные, герметики</option><option value="1717">Строительные материалы лакокрасочные, сухие смеси</option><option value="1719">Строительные материалы отделочные, напольные покрытия</option><option value="1710">Строительные материалы: железобетонные</option><option value="1713">Строительные материалы: изделия из дерева, пиломатериалы</option><option value="1712">Строительные материалы: кровельные</option><option value="1711">Строительные материалы: металлопрокат, трубы</option><option value="368">Строительные материалы: природные</option><option value="1714">Строительные металлоконструкции, металлоизделия</option><option value="339">Строительные работы: специальные</option><option value="1722">Строительный инструмент и приспособления</option><option value="336">Строительство, проектирование</option><option value="315">Студии</option><option value="610">Студии творчества</option><option value="1535">Суды, прокуратуры, коллегии, комиссии</option><option value="1598">Супермаркеты, гипермаркеты, торгово-развлекательные центры</option><option value="590">Счетчики, приборы учета: продажа, установка, сервис</option><option value="1879">Табачные изделия</option><option value="1688">Такси</option><option value="2061">Таможенно-брокерские услуги, инспектирование</option><option value="334">Тара и упаковка: оборудование для производства</option><option value="284">Тара и упаковка: производство, продажа</option><option value="591">Тара и упаковка: сырье, вторичное сырье</option><option value="2068">Театры, цирк</option><option value="1801">Теле-, интернет-магазины</option><option value="310">Телерадиокомпании</option><option value="585">Телефонная связь: городская, междугородняя, международная</option><option value="1887">Тенты и маркизы</option><option value="223">Типографии</option><option value="1632">Ткани, фурнитура, швейное оборудование</option><option value="1660">Торговля по каталогам</option><option value="1601">Торговые компании, склады</option><option value="1689">Трамвайные, троллейбусные парки</option><option value="2098">Транспортно-экспедиторские компании</option><option value="212">Туризм, миграция</option><option value="565">Уборка помещений, территорий</option><option value="1528">Управления, департаменты</option><option value="1530">Управления, инспекции</option><option value="2070">Филармонии, оркестры</option><option value="1642">Фототовары</option><option value="554">Фотоуслуги</option><option value="595">Химия промышленная: производство, продажа</option><option value="562">Химчистки и прачечные</option><option value="1643">Хозяйственные товары, бытовая химия</option><option value="1659">Художественные товары</option><option value="2078">Цветы, декоративные растения</option><option value="1541">Центры</option><option value="2089">Центры обслуживания населения (ЦОН)</option><option value="1655">Часы</option><option value="503">Школы моделей</option><option value="497">Школы общеобразовательные</option><option value="178">Школы с углубленным изучением предметов, гимназии, лицеи</option><option value="496">Школы спортивные, художественные, музыкальные</option><option value="1631">Шторы, портьеры</option><option value="266">Эвакуация транспорта</option><option value="2102">Экология и охрана окружающей среды</option><option value="2101">Экспертиза и сертификация</option><option value="1830">Экспресс-почта, курьерские услуги</option><option value="467">Электроинструмент, электротехническое оборудование</option><option value="2100">Энергетика и энергоснабжение</option><option value="1640">Ювелирные изделия</option><option value="1672">Юридические услуги, регистрация и перерегистрация предприятий</option>                              </select>
+                            </div>
+                          </div></td>
+                        <td width="95" align="center" valign="top"><input type="image" name="imageField" id="imageField" src="/apple/template/new/images/button_11.jpg" />
+                            <br /></td>
+                      </tr>
+                  </table></td>
+                  <td class="search_right_center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td height="17" align="left" class="search_left_bottom">&nbsp;</td>
+                  <td class="search_center_bottom">&nbsp;</td>
+                  <td align="right" class="search_right_bottom">&nbsp;</td>
+                </tr>
+              </table></td>
+              <td width="28" valign="bottom" style="padding-bottom:5px;"><div class="back_poisk"></div>
+</td>
+            </tr>
+          </table>
+        </form>
+        <div align="right" class="hidden_text_search" style="padding-right:18px;">Последнее обновление 08&nbsp;апреля&nbsp;2010 года&nbsp;&nbsp;&nbsp;</div></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top"><div class="button_orange" align="center">
+            <div align="center"><a href="/almaty/headings.php" class="title_section">Виды деятельности</a></div>
+        </div>
+           
+            <div class="button_orange" align="center">
+              <div align="center"><a href="/almaty/goods_services.php" class="title_section">Товары и услуги</a></div>
+          </div>
+          
+           
+		    <div class="button_green" align="center" onmouseover="this.className='button_green2'" onmouseout="this.className='button_green'">
+            <div align="center"><a href="javascript:SectionClick('popup_59')" class="title_section2" onclick="SectionClick(popup_59)">Карта города</a></div>
+            </div><div align="left" id="popup_59" style="display:none;padding-left:18px; line-height:16px;" class="ul_menu">
+				<ul><li><a href="/almaty/to_map.php" class="popup_menu" >План-схема</a></li><li><a href="/almaty/street.php" class="popup_menu" >Список улиц</a></li><li><a href="/almaty/transport.php" class="popup_menu" >Схемы транспортных развязок</a></li><li><a href="/almaty/routes.php" class="popup_menu" >Схемы трамвайных и троллейбусных маршрутов</a></li><li><a href="/almaty/post.php" class="popup_menu" >Карта почтовых индексов Алматы</a></li><li><a href="/almaty/metro.php" class="popup_menu" >Схема метро</a></li><li><a href="/almaty/bakad.php" class="popup_menu" >Схема БАКАД</a></li>
+				</ul></div>
+		    <div class="button_green" align="center" onmouseover="this.className='button_green2'" onmouseout="this.className='button_green'">
+            <div align="center"><a href="javascript:SectionClick('popup_60')" class="title_section2" onclick="SectionClick(popup_60)">Полезная информация</a></div>
+            </div><div align="left" id="popup_60" style="display:none;padding-left:18px; line-height:16px;" class="ul_menu">
+				<ul><li><a href="/almaty/phone.php" class="popup_menu" >Телефоны первой необходимости</a></li><li><a href="/almaty/organi.php" class="popup_menu" >Органы государственного управления</a></li><li><a href="/almaty/phone_code.php" class="popup_menu" >Телефонные коды</a></li><li><a href="/almaty/inquiry.php" class="popup_menu" >Справочные службы городов РК</a></li><li><a href="/almaty/mail_index.php" class="popup_menu" >Почтовые индексы городов РК</a></li><li><a href="/almaty/holidays.php" class="popup_menu" >Календарь праздников 2009 г.</a></li><li><a href="/almaty/exhibitions.php" class="popup_menu" >Выставки</a></li><li><a href="/almaty/banks.php" class="popup_menu" >Список банкоматов Алматы</a></li><li><a href="/almaty/table.php" class="popup_menu" >Таблица расстояний между областными центрами РК</a></li><li><a href="/almaty/shema.php" class="popup_menu" >Схема транзитных транспортных коридоров РК</a></li><li><a href="/almaty/poezda.php" class="popup_menu" >Расписание движения пассажирских поездов</a></li><li><a href="/almaty/airastana.php" class="popup_menu" >Расписание самолётов</a></li><li><a href="/almaty/many.php" class="popup_menu" >Денежные единицы стран мира</a></li><li><a href="/almaty/torg.php" class="popup_menu" >Основные термины международной торговли</a></li><li><a href="/almaty/code.php" class="popup_menu" >Коды транспортных средств РК</a></li><li><a href="/almaty/mer.php" class="popup_menu" >Таблица мер и весов</a></li><li><a href="/almaty/for_bum.php" class="popup_menu" >Форматы бумаги</a></li><li><a href="/almaty/razmer.php" class="popup_menu" >Таблица соотношения размеров одежды и обуви</a></li><li><a href="/almaty/barcode.php" class="popup_menu" >Штриховые коды стран</a></li>
+				</ul></div>
+		    <div class="button_green" align="center" onmouseover="this.className='button_green2'" onmouseout="this.className='button_green'">
+            <div align="center"><a href="javascript:SectionClick('popup_68')" class="title_section2" onclick="SectionClick(popup_68)">Рекламодателю</a></div>
+            </div><div align="left" id="popup_68" style="display:none;padding-left:18px; line-height:16px;" class="ul_menu">
+				<ul><li><a href="/almaty/contact_us.php" class="popup_menu" >Контакты</a></li><li><a href="/almaty/reklam.php" class="popup_menu" >Реклама в печатном издании</a></li><li><a href="/almaty/reklam2.php" class="popup_menu" >Реклама на сайте</a></li>
+				</ul></div>           
+            <div class="button_shadow" align="center">
+              <div align="center"><a href="/almaty/order_firms.php" class="reg_company">Зарегистрировать фирму</a></div>
+          </div></td>
+        <td rowspan="2" valign="top" style="padding-right:10px;" align="left"><script>
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+<script src="/pixastic.jquery.js"></script>
+<script src="/pixastic.core.js"></script>
+
+<style>
+.black {FILTER:gray(color: #000000);
+}
+</style>
+<link href="/apple/template/new/style_ru.css" rel="stylesheet" type="text/css">
+<span class="title_page">Гостиницы, отели, гостиничные комплексы</span><br><br>
+	<table width="98%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="30" align="right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="50%" align="left">1&nbsp;&nbsp;<a href="/almaty/goods.php?pg=2&search=&id_rub=253&rub=&pnumber=&field=">2</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=3&search=&id_rub=253&rub=&pnumber=&field=">3</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=4&search=&id_rub=253&rub=&pnumber=&field=">4</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=5&search=&id_rub=253&rub=&pnumber=&field=">5</a>&nbsp;&nbsp;<a style="text-decoration:none" title="следующая" href="/almaty/goods.php?pg=2&search=&id_rub=253&rub=&pnumber=&field=">&rarr;</a> </td>
+        <td align="right">
+        <select name="pnumber" onchange="MM_jumpMenu('parent',this,0)">
+                      <option value="?pnumber=10&search=&field=&id_rub=253&pg=" >10</option><option value="?pnumber=20&search=&field=&id_rub=253&pg=" >20</option><option value="?pnumber=50&search=&field=&id_rub=253&pg=" >50</option><option value="?pnumber=100&search=&field=&id_rub=253&pg=" >100</option>                  </select>        </td>
+      </tr>
+    </table>    </td>
+  </tr>
+  
+  <tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >A-CLUB, гостиница, ТОО</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ущ. Ремизовское,&nbsp;д. &nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">271-74-57; 380-35-24; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: a-club_kz@rambler.ru, <a href="http://www.a-club.kz" target="_blank">www.a-club.kz</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2448126" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=13956" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><a href="javascript:SectionClick('bl_2461497')" ><strong>ADI HOTEL & TRAVEL SERVICES, производственно-коммерческая компания, ТОО</strong></a></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Желтоксан,&nbsp;д. 71/73&nbsp;оф. 28&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">278-02-94; 278-51-13; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: adiservices@adiservices.kz, <a href="http://www.adiservices.kz" target="_blank">www.adiservices.kz</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2461497" style="display:none">Информационный центр. Всё для отелей, проектирование гостиниц, обеспечение и оснащение. Обучение. Лиц. №55096-1910.</div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle"><a href="/almaty/view_company.php?id_goods=2461497" target="_blank">О фирме</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=9598" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >ALMA, гостиничный комплекс, ТОО</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Кошкунова,&nbsp;д. 4а&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">293-80-23; 293-80-33; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: reception@hotelalma.kz, <a href="http://www.hotelalma.kz" target="_blank">www.hotelalma.kz</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2456240" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=41991" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >AMBASSADOR, отель, ТОО</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Желтоксан,&nbsp;д. 121&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">244-73-73; 272-64-41; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: info@ambassadorhotel.kz, <a href="http://www.ambassadorhotel.kz" target="_blank">www.ambassadorhotel.kz</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2449261" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=24291" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><a href="javascript:SectionClick('bl_2459912')" ><strong>BEST HOTEL, гостиница, ИП</strong></a></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">пр. Абылай хана,&nbsp;д. 58а&nbsp;оф. 610/2&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">328-76-16; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: besthotel.kz@gmail.com, <a href="http://www.besthotel.kz" target="_blank">www.besthotel.kz</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2459912" style="display:none">Служба бронирования гостиниц и конференц-залов г. Алматы.</div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle"><a href="/almaty/view_company.php?id_goods=2459912" target="_blank">О фирме</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=70607" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >CHAGALA MANAGEMENT, гостиничный комплекс, ТОО</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Байшешек,&nbsp;д. 23&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">263-28-23; 298-01-31; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: <a href="http://www.shagalagroup.com" target="_blank">www.shagalagroup.com</a><br><div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2460168" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=71071" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >ENDEAVOUR, производственно-коммерческая компания, ТОО</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Черноморская,&nbsp;д. 38&nbsp;оф. 57&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">382-71-47; 382-72-18; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: maisontte@caramel.kz, <div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2456747" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=42829" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >EURASIASPORT, гостиница, ИП</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">мкр. Жетысу-2,&nbsp;д. 2а&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">256-85-85; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: <div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2459495" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=69964" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><strong >FELICITA, гостиница, ИП</strong></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Мустафина,&nbsp;д. 21&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">299-90-80; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: <div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2450292" style="display:none"></div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06_black.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle">О фирме</td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=28577" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr><tr>
+    <td valign="middle" class="top_line"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="110" align="left" valign="top"><img src="/apple/template/new/images/logo.jpg"></td>
+        <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="27" colspan="2" align="left"><a href="javascript:SectionClick('bl_2455387')" ><strong>FOOTBALL LAND, отель, ИП</strong></a></td>
+            </tr>
+          <tr>
+            <td align="left" valign="top"><img src="/apple/template/new/images/nash_09.jpg" width="11" height="8" hspace="5" vspace="3" align="left">ул. Акан Серы,&nbsp;д. 156&nbsp;&nbsp;<br>
+              <img src="/apple/template/new/images/nash_15.jpg" width="11" height="8" hspace="5" vspace="3" align="left">234-12-77; 294-58-03; <br>
+              <img src="/apple/template/new/images/nash_20.jpg" width="11" height="8" hspace="5" vspace="3" align="left">e-mail: football_land@mail.ru, <div style="padding-top:5px;"><a href="/almaty/goods.php?id_rub=253">Рубрика: Гостиницы, отели, гостиничные комплексы</a></div>
+			<div id="bl_2455387" style="display:none">12 комфортабельных номеров бизнес-класса, тренажерный зал, 5 футбольных полей, бар, открытый бассейн, 9 видов саун.</div></td>
+            <td align="right" valign="top" ><table width="165" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_06.jpg" width="18" height="13" hspace="5" vspace="5" align="absmiddle"><a href="/almaty/view_company.php?id_goods=2455387" target="_blank">О фирме</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_13.jpg" width="20" height="15" hspace="5" vspace="2" align="absmiddle"><a href="/almaty/to_map.php?id_gorod=40634" target="_blank">Показать на карте</a></td>
+              </tr>
+              <tr>
+                <td align="left"><img src="/apple/template/new/images/nash_19_black.jpg" width="21" height="23" hspace="5" vspace="2" align="absmiddle">Рекламный модуль</td>
+              </tr>
+            </table>
+             
+              </td>
+          </tr>
+        </table></td>
+      </tr>
+    </table><hr style="color:#939393"></td>
+  </tr>  
+  
+  <tr>
+    <td height="25">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="left"></td>
+  </tr>
+  <tr>
+    <td height="30" align="right"><table><tr><td>1&nbsp;&nbsp;<a href="/almaty/goods.php?pg=2&search=&id_rub=253&rub=&pnumber=&field=">2</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=3&search=&id_rub=253&rub=&pnumber=&field=">3</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=4&search=&id_rub=253&rub=&pnumber=&field=">4</a>&nbsp;&nbsp;<a href="/almaty/goods.php?pg=5&search=&id_rub=253&rub=&pnumber=&field=">5</a>&nbsp;&nbsp;<a style="text-decoration:none" title="следующая" href="/almaty/goods.php?pg=2&search=&id_rub=253&rub=&pnumber=&field=">&rarr;</a> </td></tr></table></td>
+  </tr>
+</table>
+
+
+
+
+
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="bottom"><a href="/almaty/form_export.php"><img src="/apple/template/new/images/gorod_124.jpg" alt="информер" width="129" height="95" border="0" /></a><br />
+            <a href="http://www.pavlodar.com"><img src="http://www.pavlodar.com/img/info/kzt_90x60_5.gif" width="90" height="60" border="0" alt="Информационный сервер xFRK: валютные баннеры для Вашего сайта" /></a><br />
+           <a href='http://www.gismeteo.Ru/towns/36870.htm'><img src='http://informer.gismeteo.Ru/36870-9.GIF' alt="GISMETEO: Погода по г. Алматы" vspace="5" border="0" /></a><br />
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t17.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+		<p><a href="http://jigsaw.w3.org/css-validator/" target="_blank"><img src="http://jigsaw.w3.org/css-validator/images/vcss" style="border:0;width:88px;height:31px"  alt="Valid CSS!" /></a></p>
+		<p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="http://www.w3.org/Icons/valid-xhtml10" border="0" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a></p>
+	  </td>
+      </tr>
+    </table>
+	</td>
+    <td valign="top"><p>
+	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="185" height="185">
+            <param name="movie" value="/banners/1_Baner_Trans.swf" />
+            <param name="quality" value="high" />
+            <embed src="/banners/1_Baner_Trans.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="185" height="185"></embed>
+            </object><br/><br/>	</p></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+    <td valign="top" class="contact_us"><div align="justify">Адрес редакции: 050031, <br />
+      Республика Казахстан,<br />
+      г.Алматы, ул. Толе би, 285, офис 2<br />
+      Тел./факс: 226-93-33<br />
+    e-mail:<a href="mailto:mailbox@ourtown.kz" class="contact_us">mailbox@ourtown.kz</a></div></td>
+  </tr>
+</table>
+</body>
+</html>ADI HOTEL & TRAVEL SERVICES, производственно-коммерческая компания, ТОО
+BEST HOTEL, гостиница, ИП
+FOOTBALL LAND, отель, ИП

@@ -1,0 +1,235 @@
+@charset "windows-1251";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+a.blue{	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#02029a;}
+a:hover{text-decoration:none; 	color: #00a651;}
+a.lang {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #353535;
+	text-decoration:none;
+}
+.ul_menu{
+	line-height: 20px;
+}
+a.popup_menu
+{
+font-size:11px;
+text-decoration:none;
+}
+a.popup_menu:hover
+{
+text-decoration: underline;
+}
+
+.reg_company {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #444444;
+}
+.link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.title_page{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.back_poisk {
+	background-image: url(/apple/template/new/images/shadow.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	height:61px;
+	
+}
+.button_orange {
+	background-image: url(/apple/template/new/images/gorod_0223.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height:35px;
+	vertical-align:middle;
+	padding-right:5px;
+	padding-top:15px;
+}
+.button_green {
+	background-image: url(/apple/template/new/images/gorod_0622.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height:35px;
+	vertical-align:middle;
+	padding-right:5px;
+	padding-top:15px;
+}
+.button_green2 {
+	background-image: url(/apple/template/new/images/gorod_08.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height:35px;
+	vertical-align:middle;
+	padding-right:5px;
+	padding-top:15px;
+}
+.button_shadow {
+	background-image: url(/apple/template/new/images/gorod_11.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height:35px;
+	vertical-align:middle;
+	padding-right:5px;
+		padding-top:15px;
+}
+a.title_section{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration:none;
+
+}
+a.title_section2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration:none;
+
+}
+.contact_us {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #535353;
+}
+
+a.title_section:hover{
+	text-decoration: underline;
+}
+.search_left_top{
+	background-color: #F1E253;
+	background-image: url(/apple/template/new/images/sr_03.jpg);
+	background-repeat: no-repeat;
+}
+.search_center_top{
+	background-color: #F6DD4D;
+	background-image: url(/apple/template/new/images/sr_05.jpg);
+}
+.hidden_text_search {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #707070;
+	line-height: 23px;
+}
+
+.search_right_top{
+	background-color: #E9CC4C;
+	background-image: url(/apple/template/new/images/sr_07.jpg);
+	background-repeat: no-repeat;
+}
+.search_left_center{
+	background-color: #f5df4f;
+	background-image: url(/apple/template/new/images/sr_12.jpg);
+}
+.search_right_center{
+	background-color: #f5df4f;
+	background-image: url(/apple/template/new/images/sr_14.jpg);
+}
+
+.search_left_bottom{
+	background-color: #EBD44A;
+	background-image: url(/apple/template/new/images/sr_16.jpg);
+	background-repeat: no-repeat;
+}
+.search_right_bottom{
+	background-color: #EBD44A;
+	background-image: url(/apple/template/new/images/sr_19.jpg);
+	background-repeat: no-repeat;
+}
+.search_center_bottom{
+	background-color: #F6DD4D;
+	background-image: url(/apple/template/new/images/sr_17.jpg);
+}
+.back_poisk_right {
+	background-image: url(/apple/template/new/images/gorod_10.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.back_poisk_left {
+	background-image: url(/apple/template/new/images/gorod_14.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+a.lang:hover {
+	text-decoration:underline;
+}
+.line_help {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #bebebe;
+	background-color:#eeeeee;
+}
+.input_button_w{width:115px;}
+
+
+.pages-div a:link, .pages-div a:visited, .pages-div div{
+	display:block;
+	float:left;
+	/*margin-right:3px;*/
+	padding:2px 4px;
+	color:#71a5d6;
+	background-color:white;
+	text-decoration:underline;
+	font:normal 13px Arial;
+
+}
+
+.pages-div div{
+	background-color:#EEE;
+	color:#ea557f;
+}
+
+.pages-div a:hover{
+	background-color:#f7f7f7;
+}
+
+
+
+
+#arrow{
+	display:block;
+	float:left;
+	margin-right:3px;
+	padding:4px 8px;
+	color:#666;
+	background-color:#fff;
+	text-decoration:none;
+	font:normal 13px Arial;
+
+}
+.bottom_line2 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #e3e3e3;
+}
+
+tr.line_alt {
+  background-color: #C1C1C1;
+}
+
+
+

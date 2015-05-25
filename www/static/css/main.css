@@ -1,0 +1,45 @@
+body { background: white;  font-size: 76%; font-family: Arial, sans-serif; color: #273907; margin: 0;  padding: 0}
+h1 { font-size: 3em; font-weight: normal; text-transform: uppercase; color: silver; text-align: center;}
+a { color: inherit; }
+code { font-size: 1.3em; }
+.box { padding: 2em; background: #98cc2b; border: 1px solid #569f09; }
+.copyright { font-size: 0.9em; text-transform: uppercase; color: #557d10; text-align: center; margin-top: 10em; }
+
+td { vertical-align: top;}
+
+.clear { display: block; clear: both; }
+.admin_content, .rubrics { width: 800px; margin: auto; display: block; }
+.admin_content input { width: 150px; }
+.rubric { display: block; float: left; width: 200px; margin: 10px; }
+.rubric_header { font-size: 16pt; }
+.rubric_item { float: left; margin-right: 10px;  }
+.accordion .content { display: none; }
+.accordion .head { cursor: pointer; text-decoration: underline}
+.rubric_edit { margin-left: 10px; }
+.rubric_related { display: none; }
+.attribute_type_related { display: none; }
+.admin_content select { width: 300px; }
+.alpha_head { font-size: 16pt; color: silver;}
+h4 { margin-top: 0;}
+optgroup { color: silver; }
+.admin_toolbar { white-space: nowrap; margin: 0 auto; width: 500px; }
+.admin_toolbar div { float: left; text-align: center; margin: 10px; width: 80px;  }
+.admin_toolbar a span { display: block; white-space: pre-wrap; font-size: 8pt; }
+.moderated { color: green; font-weight: bold; }
+.not_moderated { color: gray;  }
+.city_count_list
+{
+    margin: 1em;
+    text-align: center;
+}
+
+.city_count_list span {
+    display: block;
+    float: left;
+    white-space: nowrap;
+    margin-right: 10px;
+    line-height: 150%;
+}
+
+._ok { background: #CCFFCC;}
+._notok { background: #FFCCCC;}

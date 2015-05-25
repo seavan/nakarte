@@ -1,0 +1,94 @@
+/* Horizontal Tabbed Panels */
+.TabbedPanels {
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+	width: 100%; /* IE Hack to force proper layout when preceded by a paragraph. (hasLayout Bug)*/
+}
+.TabbedPanelsTabGroup {
+	margin: 0px;
+	padding: 0px;
+}
+.TabbedPanelsTab {
+	/*position: relative;*/
+	top: 1px;
+	float: left;
+	/*padding: 4px 10px;*/
+	margin: 0px 3px 0px 0px;
+	
+	background-color: #dededd;
+	list-style: none;
+	-moz-user-select: -moz-none;
+	-khtml-user-select: none;
+	cursor: pointer;
+	z-index: 0;
+	background-image: url(/nash_03.jpg);
+	background-repeat:repeat-x;
+	background-position:top;
+	height:22px;
+/*	color: #008e39;*/
+}
+.TabbedPanelsTabHover {
+	background-color: #ffffff;
+}
+.ugol-oops{
+	background-image: url(/nash_05.jpg); 
+	background-repeat:no-repeat;
+	background-position:top right;
+}
+.TabbedPanelsTabHover .ugol-oops{
+	
+}
+
+.TabbedPanelsTabSelected {
+	background-image:url(/nash_12.jpg);
+	background-repeat:repeat-x;
+}
+
+.TabbedPanelsTabSelected .ugol-oops{
+	background-image:url(/nash_10.jpg);
+}
+
+.TabbedPanelsTab a {
+	background-image:url(/nash_12.jpg);
+}
+.TabbedPanelsContentGroup {
+	clear: both;
+	
+	background-color: #fff;
+}
+.TabbedPanelsContent {
+
+}
+.TabbedPanelsContentVisible {
+}
+/* Vertical Tabbed Panels */
+.VTabbedPanels .TabbedPanelsTabGroup {
+	float: left;
+	width: 10em;
+	height: 20em;
+	background-color: #EEE;
+	position: relative;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	border-left: solid 1px #CCC;
+	border-bottom: solid 1px #CCC;
+}
+.VTabbedPanels .TabbedPanelsTab {
+	float: none;
+	margin: 0px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.VTabbedPanels .TabbedPanelsTabSelected {
+	background-color: #EEE;
+	border-bottom: solid 1px #999;
+}
+.VTabbedPanels .TabbedPanelsContentGroup {
+	clear: none;
+	float: left;
+	padding: 0px;
+	width: 30em;
+	height: 20em;
+}

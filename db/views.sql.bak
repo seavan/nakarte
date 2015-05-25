@@ -1,0 +1,33 @@
+--
+-- Структура для представления `cities_count`
+--
+DROP TABLE IF EXISTS `cities_count`;
+
+CREATE  VIEW `cities_count` AS select `cities`.`id` AS `id`,`cities`.`lat` AS `lat`,`cities`.`lon` AS `lon`,`cities`.`name` AS `name`,`cities`.`kzname` AS `kzname`,count(0) AS `poi_count` from (`pois` left join `cities` on((`cities`.`id` = `pois`.`city_id`))) group by `pois`.`city_id` order by count(0) desc;
+
+-- --------------------------------------------------------
+
+--
+-- Структура для представления `city_stats`
+--
+DROP TABLE IF EXISTS `city_stats`;
+
+CREATE  VIEW `city_stats` AS select `cities`.`id` AS `id`,`cities`.`lat` AS `lat`,`cities`.`lon` AS `lon`,`cities`.`name` AS `name`,`cities`.`kzname` AS `kzname`,(select count(0) AS `COUNT(*)` from `pois` where (`pois`.`city_id` = `cities`.`id`)) AS `poi_count` from `cities` group by `cities`.`id`;
+
+-- --------------------------------------------------------
+
+--
+-- Структура для представления `parsed1pois`
+--
+DROP TABLE IF EXISTS `parsed1pois`;
+
+CREATE  VIEW `parsed1pois` AS select `import1pois`.`id` AS `id`,`import1pois`.`url` AS `url`,`import1pois`.`title` AS `title`,`import1pois`.`address` AS `address`,`import1pois`.`phone` AS `phone`,`import1pois`.`info` AS `info`,`import1s`.`rubric_id` AS `rubric_id` from (`import1pois` left join `import1s` on((`import1s`.`link` = convert(`import1pois`.`url` using utf8)))) where (`import1s`.`rubric_id` is not null);
+
+-- --------------------------------------------------------
+
+--
+-- Структура для представления `poi_search`
+--
+DROP TABLE IF EXISTS `poi_search`;
+
+CREATE  VIEW `poi_search` AS select `pois`.`id` AS `id`,`pois`.`ctime` AS `ctime`,`pois`.`mtime` AS `mtime`,`pois`.`caption` AS `caption`,`pois`.`lat` AS `lat`,`pois`.`lon` AS `lon`,`pois`.`user_id` AS `user_id`,`pois`.`descr` AS `descr`,`pois`.`rating` AS `rating`,`pois`.`city_id` AS `city_id`,`pois`.`address` AS `address`,`pois`.`state` AS `state`,`at`.`caption` AS `key_name`,`at`.`id` AS `key_id`,`av`.`value` AS `key_value`,`av`.`code_value` AS `key_code`,`r1`.`name` AS `rubric_name`,`r2`.`name` AS `parent_rubric_name` from (((((`pois` left join `attribute_values` `av` on((`av`.`poi_id` = `pois`.`id`))) left join `attribute_types` `at` on((`at`.`id` = `av`.`attribute_type_id`))) left join `pois_rubrics` on((`pois`.`id` = `pois_rubrics`.`poi_id`))) left join `rubrics` `r1` on((`pois_rubrics`.`rubric_id` = `r1`.`id`))) left join `rubrics` `r2` on((`r1`.`rubric_id` = `r2`.`id`)));
